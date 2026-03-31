@@ -1,17 +1,40 @@
-# lab5_clean_app
+# 🕒 Lab 5 – Task Timer App (Flutter)
 
-A new Flutter project.
+## 📌 Overview
+This project is a Flutter-based mobile application developed as part of Lab 5 for the Advanced Mobile Application course. The app allows users to enter a task duration in minutes and start a countdown timer.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ⏱️ Enter task duration in minutes
+- ▶️ Start timer
+- ⏹️ Stop timer
+- 🧮 Countdown display (MM:SS format)
+- 📱 Clean and simple UI
+- 🔔 Local notifications support (flutter_local_notifications)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Technologies Used
+- Flutter (Dart)
+- Android Studio
+- Android Emulator (Pixel / Medium Phone API 36)
+- flutter_local_notifications package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Installation & Run Instructions
+
+1. Clone the repository:
+   ```bash
+git clone https://github.com/Aquila237/lab5-task-timer.git
+3. Navigate to the project folder:
+cd lab5-task-timer
+
+Install dependencies:
+flutter pub get
+
+Run the application:
+flutter run
+```bash
+git clone https://github.com/Aquila237/lab5-task-timer.git
